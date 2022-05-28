@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "kisspng-microsoft-windows-scalable-vector-graphics-logo-co-microsoft-logo-icon-5a73ee14636a35.5568260615175470284072.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "kisspng-microsoft-windows-scalable-vector-graphics-logo-co-microsoft-logo-icon-5a73ee14636a35.5568260615175470284072@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "kisspng-microsoft-windows-scalable-vector-graphics-logo-co-microsoft-logo-icon-5a73ee14636a35.5568260615175470284072@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

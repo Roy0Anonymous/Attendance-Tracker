@@ -1,0 +1,30 @@
+PODS:
+  - DropDown (2.3.13)
+  - FSCalendar (2.8.4)
+  - Realm (10.25.2):
+    - Realm/Headers (= 10.25.2)
+  - Realm/Headers (10.25.2)
+  - RealmSwift (10.25.2):
+    - Realm (= 10.25.2)
+
+DEPENDENCIES:
+  - DropDown
+  - FSCalendar
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - DropDown
+    - FSCalendar
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  FSCalendar: 2d1d0d9398f12d439f55c1fe0f01525b151b8260
+  Realm: 978303663d0509166498f423d112e5ee97d4c91b
+  RealmSwift: a0c30c1efc49e928a0a6f8fb141bb2629616d79b
+
+PODFILE CHECKSUM: 4a7ecaf60f93a721cb704efd972823bce95bc0f3
+
+COCOAPODS: 1.11.3
