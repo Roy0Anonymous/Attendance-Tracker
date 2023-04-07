@@ -118,7 +118,7 @@ class DateDetailsViewController: UIViewController {
     }
     
     
-    @IBAction func export(_ sender: UIButton) {
+    @IBAction func exportAttendance(_ sender: UIButton) {
         let feedbackGenerator = UINotificationFeedbackGenerator()
         guard let currentSelectedSection = currentSelectedSection else {
             let alertController = UIAlertController(title:"No Section Selected", message:nil, preferredStyle:.alert)
